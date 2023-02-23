@@ -2,12 +2,13 @@
 
 This repository provides a minimal Moodle testing environment based on docker compose.
 
+![php7.4](https://img.shields.io/badge/php-7.4-orange)
+
 ## Disclaimer
 
 This deployment is **NOT** intended for a production environment.
 It is an reference implementation aimed at Moodle testers.
 
-``This is only for Mac M1``
 
 ## How to start
 1.) Clone this repository inside a folder
