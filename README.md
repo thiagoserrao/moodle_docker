@@ -20,9 +20,13 @@ git clone https://github.com/thiagoserrao/moodle_docker.git
 2.) Realize o download de uma das versões do Moodle abaixo e descompacte na pasta  **src/moodle**. 
 
 [Moodle 3.8](https://download.moodle.org/download.php/stable38/moodle-3.8.9.zip)
+
 [Moodle 3.9](https://download.moodle.org/download.php/stable39/moodle-latest-39.zip)
+
 [Moodle 3.10](https://download.moodle.org/download.php/stable310/moodle-3.10.11.zip)
+
 [Moodle 3.11](https://download.moodle.org/download.php/stable311/moodle-latest-311.zip)
+
 [Moodle 4.0](https://download.moodle.org/download.php/stable400/moodle-latest-400.zip)
 
 3.) Instale o Moodle via navegador em http://localhost:8088
